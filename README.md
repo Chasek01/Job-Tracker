@@ -8,6 +8,19 @@ API design, database integration, and Docker-based deployment.
 
 ------------------------------------------------------------------------
 
+## Screenshots
+
+### Light Mode
+![Light Mode](screenshots/main-light.png)
+
+### Dark Mode
+![Dark Mode](screenshots/main-dark.png)
+
+### Add Application Modal
+![Add Application](screenshots/add-job.png)
+
+------------------------------------------------------------------------
+
 ## Features
 
 -   Add, edit, and delete job applications
