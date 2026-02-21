@@ -1,0 +1,28 @@
+# Environment variables
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Node / React
+node_modules/
+dist/
+build/
+
+# Vite
+.vite/
+
+# Mac
+.DS_Store
+
+# Logs
+*.log
+
+# Docker
+*.db
+postgres_data/
+
+# VSCode
+.vscode/
